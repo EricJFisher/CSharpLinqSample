@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLinqSample", "CSharpLinqSample\CSharpLinqSample.csproj", "{1D9D5CB0-BF9F-4313-8CE3-09CAD000725E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLinqSampleTests", "CSharpLinqSampleTests\CSharpLinqSampleTests.csproj", "{4AC312AC-C7A8-439C-895E-45B3B179E018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9D5CB0-BF9F-4313-8CE3-09CAD000725E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9D5CB0-BF9F-4313-8CE3-09CAD000725E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9D5CB0-BF9F-4313-8CE3-09CAD000725E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9D5CB0-BF9F-4313-8CE3-09CAD000725E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC312AC-C7A8-439C-895E-45B3B179E018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC312AC-C7A8-439C-895E-45B3B179E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC312AC-C7A8-439C-895E-45B3B179E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC312AC-C7A8-439C-895E-45B3B179E018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D7D40B-73A0-472E-B641-421CD719CF97}
+	EndGlobalSection
+EndGlobal
